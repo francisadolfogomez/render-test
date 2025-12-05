@@ -7,17 +7,17 @@ app.use(express.json())
 let notes = [
   {
     id: 1,
-    content: "Nota 1: HTML is easy",
+    content: "Desde index.js  Nota 1: HTML is easy",
     important: true
   },
   {
     id: 2,
-    content: "Nota2: Browser can execute only JavaScript",
+    content: "Desde index.js Nota2: Browser can execute only JavaScript",
     important: false
   },
   {
     id: 3,
-    content: "Nota 3GET and POST are the most important methods of HTTP protocol",
+    content: "Desde index.js Nota 3GET and POST are the most important methods of HTTP protocol",
     important: true
   }
 ]
