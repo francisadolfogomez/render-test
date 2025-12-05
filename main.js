@@ -1,0 +1,1 @@
+console.log("Vite funcionando correctamente desde main.js para el front");

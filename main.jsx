@@ -1,3 +1,5 @@
+console.log("Vite funcionando correctamente desde main.jsx");
+
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 
